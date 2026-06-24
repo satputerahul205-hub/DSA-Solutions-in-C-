@@ -1,2 +1,2 @@
-# DSA-Solutions-in-C-
+# DSA-Solutions-in-C++
 my first code in github
